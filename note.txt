@@ -1,27 +1,27 @@
 ===================================================
 UTS - Enterprise Application Integration
-BBK2HAB3 | Telkom University
+E - Commmerce
 ===================================================
 
 ANGGOTA KELOMPOK:
-1. [Nama Anggota 1] - [NIM]
-2. [Nama Anggota 2] - [NIM]
-3. [Nama Anggota 3] - [NIM]
-4. [Nama Anggota 4] - [NIM]
+1. Dealova Cheilgie Alea P. F. (102062430001)
+2. Gevira Raudatul Gaidza (102062400099)
+3. Herfiani Fantastika Salma (102062400140)
+4. Riri Rizkiya Auliya (102062400062)
 
 ---
 
 LINK REPOSITORY GITHUB:
-https://github.com/[username]/[repo-name]
+https://github.com/lovielova/uts-eai.git
 
 ---
 
 LINK POSTMAN DOCUMENTATION:
-https://documenter.getpostman.com/view/[id]
+https://documenter.getpostman.com/view/53779228/2sBXqKpKy1
 
 ---
 
 LINK VIDEO DEMO:
-https://drive.google.com/[link-video]
+https://drive.google.com/drive/folders/1-6oPz-xjZjAdhZKYlgPFzs4yzxqGOuvV?usp=sharing
 
 ===================================================
