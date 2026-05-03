@@ -1,0 +1,27 @@
+===================================================
+UTS - Enterprise Application Integration
+BBK2HAB3 | Telkom University
+===================================================
+
+ANGGOTA KELOMPOK:
+1. [Nama Anggota 1] - [NIM]
+2. [Nama Anggota 2] - [NIM]
+3. [Nama Anggota 3] - [NIM]
+4. [Nama Anggota 4] - [NIM]
+
+---
+
+LINK REPOSITORY GITHUB:
+https://github.com/[username]/[repo-name]
+
+---
+
+LINK POSTMAN DOCUMENTATION:
+https://documenter.getpostman.com/view/[id]
+
+---
+
+LINK VIDEO DEMO:
+https://drive.google.com/[link-video]
+
+===================================================
