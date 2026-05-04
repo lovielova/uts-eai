@@ -1,3 +1,5 @@
+#dikerjakan oleh: gevira raudatul gaidza (102062400099)
+
 from flask import Flask, jsonify
 from flask_cors import CORS
 import requests
